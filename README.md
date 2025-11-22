@@ -56,4 +56,3 @@ The workflow:
 ![Screenshots](Screenshots/app-preview-bottom-light.png)
 ![Screenshots](Screenshots/app-preview-bottom-dark.png)
 
-### - triggering the actiond
